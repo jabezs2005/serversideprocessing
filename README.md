@@ -2,12 +2,9 @@
 
 ## AIM:
 To design a website to perform mathematical calculations in server side.
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Fork the repository and clone it into vs code
-
 
 ### Step 2:
 Now activate django and create a new django project called 'myproj'
@@ -15,14 +12,11 @@ Now activate django and create a new django project called 'myproj'
 ### Step 3:
 After that create a app called myapp using the command "python manage.py startapp myapp"
 
-
 ### Step 4:
 Now create a folder called template in myproj, Now within this folder create an another folder called myapp
 
-
 ### Step 5:
 Now within this folder create two html files called math.html and result.html
-
 
 ### Step 6:
 Now make the necesssary changes in settings.py and views.py and urls.py
@@ -32,7 +26,9 @@ Now run the server
 
 ### PROGRAM :
 ## code for math.html
-```<head>
+```
+<html>
+<head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>Area of Square Prism</title>
@@ -109,7 +105,6 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 ## code for urls.py
 ```
-
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
 Examples:
@@ -144,5 +139,4 @@ urlpatterns = [
 ![homepage](https://github.com/jabezs2005/serversideprocessing/assets/147473463/22137ce8-10d1-42f8-90fe-dd038b11a737)
 
 ## Result:
-
 The website with server side response has been created succesfully.
