@@ -133,16 +133,16 @@ urlpatterns = [
 
 ]
 ```
-### OUTPUT:
-## Client Output:
+## OUTPUT:
+### Client Output:
 ![result page](https://github.com/jabezs2005/serversideprocessing/assets/147473463/a4a697be-ad8b-4698-8489-8cd89cc4130f)
 
-## server output:
+### server output:
 ![server output](https://github.com/jabezs2005/serversideprocessing/assets/147473463/3a0fc4a4-3896-4f39-8f13-d42e0dba2e58)
 
-## Home Page:
+### Home Page:
 ![homepage](https://github.com/jabezs2005/serversideprocessing/assets/147473463/22137ce8-10d1-42f8-90fe-dd038b11a737)
 
-### Result:
+## Result:
 
 The website with server side response has been created succesfully.
